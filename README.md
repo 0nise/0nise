@@ -4,7 +4,7 @@
   <br>
   <br>
   <a href="https://www.r4v3zn.com/">
-    <img width="60" height="60" src="https://avatars2.githubusercontent.com/u/18393907?s=460&u=bef5bf9477c4038fee23d1cf76fa214a3652ac7c&v=4" />
+    <img width="120" height="120" src="https://avatars2.githubusercontent.com/u/18393907?s=460&u=bef5bf9477c4038fee23d1cf76fa214a3652ac7c&v=4" />
   </a>
   <br>
   <p>
