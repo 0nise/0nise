@@ -9,10 +9,10 @@
   <br>
   <p>
     <a href="https://twitter.com/r4v3zn">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/0nise/0nise/master/imgs/twitter.svg?sanitize=true" />
+      <img width="36" height="36" src="https://raw.githubusercontent.com/0nise/0nise/master/imgs/twitter.svg?sanitize=true" />
     </a>
     <a href="mailto:woo0nise@gmail.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/0nise/0nise/master/imgs/mail.svg?sanitize=true" />
+      <img width="36" height="36" src="https://raw.githubusercontent.com/0nise/0nise/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
   <br>
